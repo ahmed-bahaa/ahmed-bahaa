@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-ahmed-bahaa)
 
-![](gif/golang.gif)
+![](golang.gif)
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=ahmed-bahaa&&show_icons=true&theme=tokyonight)]
 
