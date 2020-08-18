@@ -4,7 +4,6 @@
 
 ![](golang.gif)
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=ahmed-bahaa&&show_icons=true&theme=tokyonight)]
 
 ### Thanks for visiting my account
 ### here's what I am currently doing :point_down: ,,, if u interested in something common or seeking help send to me :) 
